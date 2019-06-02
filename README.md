@@ -11,7 +11,7 @@ The console emulator is called **cmder** which you can get [here](https://cmder.
 Here is what you will learn in this course:
 
 - setup and Hello World
-- variable types
+- variable types and operators
 - datastructures
 - branching
 - loops
