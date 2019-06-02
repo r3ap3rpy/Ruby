@@ -1,0 +1,19 @@
+gem search -r <name of gem>
+
+gem install <name of gem>
+
+gem uninstall <name of gem>
+
+
+Gemfile 
+gem "name", "version"
+gem "name_2", "version"
+gem "name_3", "version"
+
+Install bundle
+
+gem install bundle
+bundle install <gemfile>
+
+gem server
+gem install --source http://name:8808
